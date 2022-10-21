@@ -1,10 +1,10 @@
 (\.|^)foxnews\.com$
 (\.|^)helpshift\.com$
-*.t7n.de
-*.salesforceliveagent.com
-*.churnzero.net
-*.pendo.io
-*.force.com
+(\.|^)t7n.de$
+(\.|^)salesforceliveagent.com$
+(\.|^)churnzero.net$
+(\.|^)pendo.io$
+(\.|^)force.com$
 analytics.plex.tv
 trace.dev.svc.ui.com
 trace.stg.svc.ui.com
