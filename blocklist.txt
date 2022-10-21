@@ -1,0 +1,15 @@
+(\.|^)foxnews\.com$
+(\.|^)helpshift\.com$
+*.t7n.de
+*.salesforceliveagent.com
+*.churnzero.net
+*.pendo.io
+*.force.com
+analytics.plex.tv
+trace.dev.svc.ui.com
+trace.stg.svc.ui.com
+trace.svc.ui.com
+unifi-report.ubnt.com
+bitmangogames.helpshift.com
+cc.bitmango.com
+updater.home-assistant.io
